@@ -1136,7 +1136,7 @@ a {
 }
 .cid-tBxLxpLvWN {
   padding-top: 6rem;
-  padding-bottom: 1rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-tBtYWsstsZ {
@@ -1514,6 +1514,11 @@ a {
   }
 }
 .cid-tC0UBJr1nQ {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tCcZiMELY9 {
   padding-top: 0rem;
   padding-bottom: 3rem;
   background-color: #ffffff;
